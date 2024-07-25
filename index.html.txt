@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一石二鸟-MOFs催化生物质转化产物智能定向调控</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>一石二鸟-MOFs催化生物质转化产物智能定向调控</h1>
+
+        <div class="section">
+            <h2>项目介绍</h2>
+            <p>糠醛作为一种重要的生物质基平台化合物，可用于制备一系列高附加值化学品。本项目研究提出的MOFs基催化剂制备工艺相比于传统工艺，具有配位环境明确、活性位点均一，普适性强，适合工业化批量制备，具有很好的应用前景。</p>
+        </div>
+
+        <div class="section">
+            <h2>MOFs催化剂特点</h2>
+            <p>MOFs催化剂在循环试验（8次以上）和放大实验（放大500倍）中表现出优异的催化性能。通过调节催化剂官能团实现了呋喃基产物的定向调控，对糠醛的高值化定向转化的产业化应用具有重要的科学和实际意义。</p>
+        </div>
+
+        <div class="section">
+            <h2>实验结果</h2>
+            <p>在循环试验中，MOFs催化剂表现出持久的活性和稳定性，经过8次以上的循环使用，仍能保持优异的催化性能。在放大实验中，MOFs催化剂的催化效果在放大500倍的条件下仍然保持一致，证明了其在工业化应用中的可行性和有效性。</p>
+        </div>
+
+        <div class="section">
+            <h2>科学和实际意义</h2>
+            <p>本项目通过MOFs催化剂的研发和应用，实现了对糠醛的高值化定向转化。这一技术不仅在科学研究中具有重要意义，还为相关产业提供了一种高效、环保、经济的解决方案，推动了生物质资源的高效利用和可持续发展。</p>
+        </div>
+    </div>
+</body>
+</html>
